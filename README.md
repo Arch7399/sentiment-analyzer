@@ -58,7 +58,7 @@ The ML model achieved perfect recall, meaning it captured all positive instances
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/sentiment-analysis-ml-vs-vader.git
+    git clone https://github.com/your-username/sentiment-analyzer.git
     ```
 
 2. Run the sentiment analysis code:
